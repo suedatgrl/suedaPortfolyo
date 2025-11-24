@@ -1,0 +1,2 @@
+# suedaPortfolyo
+kişisel bir websitesi
