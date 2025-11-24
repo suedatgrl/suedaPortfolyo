@@ -14,7 +14,7 @@
 }
 
 html {
-  scroll-behavior: auto;
+  scroll-behavior: auto; /* Lenis kontrol edecek */
 }
 
 body {
@@ -26,7 +26,7 @@ body {
   overflow-x: hidden;
 }
 
-/* Lenis smooth scroll */
+/* Lenis Smooth Scroll Ayarları */
 html.lenis, html.lenis body {
   height: auto;
 }
